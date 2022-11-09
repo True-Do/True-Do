@@ -2,6 +2,6 @@
 True-Do provides great productivity tools, with APIs!
 
 ### Links
-Website: [True Do](https://true-do.deta.dev)
-API Docs: [Docs](https://true-do-api.deta.dev/docs)
-App: Releasing soon!
+Website: [True Do](https://true-do.deta.dev) <br>
+API Docs: [Docs](https://true-do-api.deta.dev/docs) <br>
+App: Releasing soon! <br>
